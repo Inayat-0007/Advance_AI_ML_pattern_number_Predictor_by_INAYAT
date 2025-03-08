@@ -1,0 +1,14 @@
+aviator:
+  url: "https://aviator-next.spribegaming.com/?user=18838635&token=d1101768-2620-4900-bae9-220461fde72b&currency=INR&lang=en&operator=betinexchangecom&return_url=https:%2F%2Fplayinmatch.com"
+  login_required: false
+  login_url: "https://aviator-next.spribegaming.com/login"
+  username: "your_username"
+  password: "your_password"
+  username_field: "input[name='username']"
+  password_field: "input[name='password']"
+  login_button: "button[type='submit']"
+
+scraping:
+  base_interval: 5
+  max_interval: 30
+  min_numbers_per_fetch: 5
